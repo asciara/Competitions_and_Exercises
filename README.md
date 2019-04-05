@@ -1,3 +1,3 @@
-## Tutorials and Exercises
+## Competitions and Exercises
 
-Practice notebooks for exercises found here and there 
+Notebooks about Machine Learning competitions I participated in + practice notebooks for exercises found here and there 
