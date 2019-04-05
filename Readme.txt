@@ -1,1 +1,1 @@
-Collection of some exercises
+Some notebook with exercises found here and there 
