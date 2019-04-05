@@ -1,3 +1,3 @@
 ## Tutorials and Exercises
 
-Practice notebook for exercises found here and there 
+Practice notebooks for exercises found here and there 
