@@ -6,4 +6,4 @@ Exercise from https://fellowship.ai/challenge.
 
 **Approach**: ULMFiT model trained using the fastai library based on PyTorch; used transfer learning, one-cycle learning, discriminative learning rates, gradual unfreezing.
 
-** Final result**: see notebook.
+**Final result**: see notebook.
