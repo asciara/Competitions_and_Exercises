@@ -6,4 +6,4 @@ Exercise from https://fellowship.ai/challenge.
 
 **Approach**: ResNet50 trained using the fastai library based on PyTorch; used transfer learning, data augmentation, progressive resizing, one-cycle learning, test time augmentation (TTA).
 
-**Final result**: 89.4% top-1 accuracy, 98.1% top-5 accuracy (after TTA).
+**Final result**: 90.3% top-1 accuracy, 98.4% top-5 accuracy (after TTA).
