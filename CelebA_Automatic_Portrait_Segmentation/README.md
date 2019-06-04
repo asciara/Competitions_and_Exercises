@@ -1,7 +1,7 @@
 Exercise from https://fellowship.ai/challenge.
 
-Goal: create an automatic portrait segmentation model and apply it to the CelebA dataset.
+**Goal**: create an automatic portrait segmentation model and apply it to the CelebA dataset.
 
-Approach: U-Net trained using the fastai library based on PyTorch.
+**Approach**: U-Net trained using the fastai library based on PyTorch.
 
-Final result: 97.6% Intersection-over-Union accuracy on the portrait segmentation dataset validation set; see notebook for qualitative discussion on CelebA dataset 
+**Final result**: 97.6% Intersection-over-Union accuracy on the portrait segmentation dataset validation set; see notebook for results on CelebA dataset 
