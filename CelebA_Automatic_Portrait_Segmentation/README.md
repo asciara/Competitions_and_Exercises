@@ -4,4 +4,4 @@ Exercise from https://fellowship.ai/challenge.
 
 **Approach**: U-Net trained using the fastai library based on PyTorch.
 
-**Final result**: 97.6% Intersection-over-Union accuracy on the portrait segmentation dataset validation set; see notebook for results on CelebA dataset 
+**Final result**: 97.6% Intersection-over-Union accuracy on the portrait segmentation dataset validation set; see notebook for results on CelebA dataset.
